@@ -1,0 +1,27 @@
+* 734a113 css_v2 : survol des liens du menu
+* f121879 css_v2 : liens du menu
+* 9cbf883 css_v2 : classe menu (fond vert pale, texte blanc)
+* 7459cb6 master : copyright en gris
+* c30773e master : copyright plus petit
+* cbaae3d master : copyright centré
+| * 9aa4fe3 menu : ajout de l'entrée À propos
+|/  
+* 9baca91 master : ajout du copyright
+*   0c39a99 Merge de css_v2 dans master
+|\  
+| * 3e5a36b css_v2 : titre en bleu
+* | 007a261 master : titre en vert
+|/  
+*   1c599d1 Merge de ligne_graphique dans master (--no-ff)
+|\  
+| * de248b2 Style des paragraphes
+* |   eb01300 Merge de page_contact dans master
+|\ \  
+| * | 33d2c42 Ajout de la page contact
+| |/  
+* / 0b5e4c9 Ajout du menu vers la page contact
+|/  
+* 2dc3151 Mise en forme du titre et lien vers la feuille de style
+* b240b6f Ajout de css/ligne.css
+* f065d5b Ajout d'un paragraphe dans index.html
+* 260e2ab Ajout de index.html avec Hello World

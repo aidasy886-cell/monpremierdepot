@@ -1,0 +1,13 @@
+*   b9365a3 Merge de ligne_graphique dans master (--no-ff)
+|\  
+| * ae24bc3 Style des paragraphes
+* |   53a4ee1 Merge de page_contact dans master
+|\ \  
+| * | cb11a4b Ajout de la page contact
+| |/  
+* / 0d05eed Ajout du menu vers contact
+|/  
+* d214a73 Mise en forme du titre
+* 6889970 Ajout de ligne.css
+* 5beac71 Modification de index.html
+* 8a3cf88 Ajout de index.html
